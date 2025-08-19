@@ -1,5 +1,3 @@
-Tentu, ini draf README untuk proyek Anda.
-
 # Perbandingan Model Deep Learning untuk Analisis Sentimen Ulasan Aplikasi DANA
 
 Repositori ini berisi kode untuk melakukan scraping ulasan aplikasi DANA dari Google Play Store dan membandingkan kinerja tiga model *deep learning* (DNN, LSTM, BiLSTM) untuk klasifikasi sentimen. Proyek ini bertujuan untuk menemukan arsitektur model dan teknik ekstraksi fitur yang paling efektif untuk teks ulasan berbahasa Indonesia.
